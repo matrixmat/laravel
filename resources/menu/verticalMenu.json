@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/add-product",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "name": "Products",
+      "slug": "pages-add-product"
+    },
+    {
+      "url": "pages/misc-error",
+      "name": "Error",
+      "icon": "menu-icon tf-icons ti ti-alert-triangle",
+      "slug": "pages-misc-error",
+      "target": "_blank"
+    },
+    {
+      "url": "/auth/logout",
+      "name": "logout",
+      "icon": "ti ti-logout me-2",
+      "slug": "logout"
+  }
+  ]
+}
